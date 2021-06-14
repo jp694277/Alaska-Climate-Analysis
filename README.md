@@ -1,2 +1,3 @@
 # Alaska-Climate-Analysis
-Alaska Climate Analysis
+
+PCA, FA, Hierarchical Clustering
